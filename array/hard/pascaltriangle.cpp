@@ -1,5 +1,6 @@
 #include "../bits/stdc++.h"
 using namespace std;
+// there can be many variations to this problem and using a formula based approach can be useful
 class Solution
 {
 public:
